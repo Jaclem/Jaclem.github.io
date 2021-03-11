@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Python
 
-Final Project: Build a webscraper that scrapes specific information of your choice from a website of your choice and puts it into a CSV file.
+##Final Project 
+Build a webscraper that scrapes specific information of your choice from a website of your choice and puts it into a CSV file.
 For my project I decided to use BeautifulSoup for the web scraping 
 I also added a webdriver using selenium to open up the chrome web browser and take user input and automatically click on the first option after it is entered into the site search bar. It then would scrape all the information of the Alltrails website and write it into a CSV file.
 ```
@@ -111,8 +112,92 @@ for trails in trail:
 
     writeFile(title + ',' + difficulty + ',' + distance)
 ```
-```markdown
-Syntax highlighted code block
+##Problem
+Create a program that takes users full name regardless of how many spaces are in it and create a random username for them using the first letter of their first name, first 4 of their last name and 4 random numbers appended to the end of the username.
+
+```
+import random
+import string
+
+def numGen():
+    # Generates a random integer between 1111 and 9999
+    userNumber = random.randint(1111,9999)
+    return userNumber
+
+
+def nameMaker():
+    # using string slicing to take the first name from the fullName with :1
+    # as well as the last part of the name using 1:
+    firstName = str(fullName[:1])
+    lastName = str(fullName[-1:])
+
+    # Creating a variable that accepts only the 3rd character in the strVariable firstName
+    f_letter = firstName[2:3]
+    # making l_name variable = characters between the first 2 and the last 2 which are [' ']
+    l_name = lastName[2:-2]
+
+    # Creates a variable that is equal to the number being generated in numGen function
+    randomNum = numGen()
+
+    print(f_letter.lower() + l_name.lower() + str(randomNum))
+
+
+
+def passGen():
+    ascii_letters = string.ascii_letters
+
+    # loops through all of the ascii letters setting all of them = to variable alphabet
+    for alphabet in ascii_letters:
+        alphabet = ascii_letters
+
+    # Creating a blank list named passwd
+    passwd = []
+    i = 0
+    while i <= 5:
+        # Making list passwd to put a random ascii character for every time i adds 1
+        passwd.append(random.choice(alphabet))
+        i = i + 1
+
+    # New variable password that joins the blank spaces of passwd that looked like ['','','','','','']
+    # so that it comes together without brackets/commas/quotations
+    password = ''.join(passwd)
+    print(password + str(numGen()))
+
+# opening up both text files
+f1 = open("usernameslvl1.txt", "r")
+f2 = open("usernameslvl2.txt", "r")
+
+
+file = str(input("What file would you like to open F1 or F2? "))
+# Loops through entire text file and prints out all the names
+if file == 'F1':
+    for line in f1:
+        # strips the \n off of the end of the strings and makes it all lowercase
+        line = str(line.strip("\n"))
+
+        fullName = line.split(' ')
+
+        print(str(' '.join(fullName)))
+
+        nameMaker()
+        passGen()
+        print("\n")
+else:
+    for line in f2:
+        # strips the \n off of the end of the strings and makes it all lowercase
+        line = str(line.strip("\n"))
+
+        fullName = line.split(' ')
+
+        # Takes the fullName variable forces it into a string and joins the spaces together using ' '.join()
+        print(str(' '.join(fullName)))
+
+        nameMaker()
+        passGen()
+        print("\n")
+        
+```
+
 
 # Header 1
 ## Header 2
