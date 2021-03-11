@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Python
 
-##Final Project 
+## Final Project 
 Build a webscraper that scrapes specific information of your choice from a website of your choice and puts it into a CSV file.
 For my project I decided to use BeautifulSoup for the web scraping 
 I also added a webdriver using selenium to open up the chrome web browser and take user input and automatically click on the first option after it is entered into the site search bar. It then would scrape all the information of the Alltrails website and write it into a CSV file.
@@ -112,7 +112,7 @@ for trails in trail:
 
     writeFile(title + ',' + difficulty + ',' + distance)
 ```
-##Problem
+## Problem
 Create a program that takes users full name regardless of how many spaces are in it and create a random username for them using the first letter of their first name, first 4 of their last name and 4 random numbers appended to the end of the username.
 
 ```
