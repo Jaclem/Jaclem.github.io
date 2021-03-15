@@ -1,4 +1,6 @@
-# Python  [C Programming](jaclem.github.io/C Programming.md)
+# Python 
+
+---
 
 ## Final Project 
 Build a webscraper that scrapes specific information of your choice from a website of your choice and puts it into a CSV file.
@@ -106,6 +108,7 @@ for trails in trail:
 
     writeFile(title + ',' + difficulty + ',' + distance)
 ```
+---
 ## Problem
 Create a program that takes users full name regardless of how many spaces are in it and create a random username for them using the first letter of their first name, first 4 of their last name and 4 random numbers appended to the end of the username.
 
