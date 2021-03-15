@@ -4,17 +4,17 @@
 # JOSHUA CLEMENT
 20 East Street Apt. 2, Tewksbury, MA 01876
 Jaclem12@gmail.com | Cell : (978)-935-0762 | www.linkedin.com/in/joshua-clement- | https://jaclem.github.io/index 
-TECHNICAL SKILLS
-SQL Databases
-Python
-Selenium
-JavaScript
-Bash
-Linux
-C Programming
-Computer Networking 
-Active Directory
-VMWare
+## TECHNICAL SKILLS
+- SQL Databases
+- Python
+- Selenium
+- JavaScript
+- Bash
+- Linux
+- C Programming
+- Computer Networking 
+- Active Directory
+- VMWare
 
 ## PROFESSIONAL EXPERIENCE  
 ### Protocol Networks - Help Desk Engineer
