@@ -3,21 +3,20 @@
 ---
 
 ## Problem
-```
 Create a Calculator without using built in libraries and create your own functions that perform the actions in which libraries would normally take care of.
-+ For Addition
-- For Subtraction
-/ For Division
-* For Multiplication
-^ The first number you enter will be to the power of the second number you enter
-e The first number you enter will be to the power of e
-! For the factorial of any integer
-r For any random number between two integers entered
-s To calculate the sum consecutive integers between two given integers
-~ To round to the nearest integer given any decimal value
-< Determine the lesser of two values entered
-> Determine the greater of two values entered
-```
+- [+] For Addition
+- [-] For Subtraction
+- [/] For Division
+- [*] For Multiplication
+- [^] The first number you enter will be to the power of the second number you enter
+- [e] The first number you enter will be to the power of e
+- [!] For the factorial of any integer
+- [r] For any random number between two integers entered
+- [s] To calculate the sum consecutive integers between two given integers
+- [~] To round to the nearest integer given any decimal value
+- [<] Determine the lesser of two values entered
+- [>] Determine the greater of two values entered
+
 ```
 #include <stdio.h>
 #include <stdlib.h>
