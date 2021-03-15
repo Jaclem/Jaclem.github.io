@@ -1,8 +1,3 @@
----
-title: PAGE TITLE HERE
-layout: template
-filename: C Programming.md
---- 
 # C Programming
 
 ## Problem
