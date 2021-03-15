@@ -1,4 +1,4 @@
-# Python   <a href="c programming.md">C Programming</a>
+# Python | <a href="c programming.md">C Programming</a>
 
 ---
 
