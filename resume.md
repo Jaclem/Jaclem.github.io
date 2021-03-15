@@ -46,5 +46,5 @@ Littleton, MA - Aug. 2014- Aug. 2016
 -	Tested new systems to ensure that they were in working order.
 
 ### EDUCATION
-NORTHERN ESSEX COMMUNITY COLLEGE
+### NORTHERN ESSEX COMMUNITY COLLEGE
 A.S. Degree in Information Technology 				 (Expected graduation May 2021)
