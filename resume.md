@@ -1,4 +1,4 @@
-# <a href="https://Jaclem.github.io/index">Python</a> |<a href="https://Jaclem.github.io/sql">SQL</a> | <a href="https://Jaclem.github.io/index">C Programming</a> | <a href="https://Jaclem.github.io/linux">Linux</a> | Resume
+# <a href="https://Jaclem.github.io/index">Python</a> | <a href="https://Jaclem.github.io/sql">SQL</a> | <a href="https://Jaclem.github.io/index">C Programming</a> | <a href="https://Jaclem.github.io/linux">Linux</a> | Resume
 ---
 
 # JOSHUA CLEMENT
