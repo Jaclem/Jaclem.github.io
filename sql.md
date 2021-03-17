@@ -7,52 +7,52 @@ Start by retrieving the corresponding crime scene report from the police departm
 
 First I searched through the "crime_scene_report" database to find any murders that occured on the 15th of 2018
 
-![](images/SQL/1.PNG)
+<img src="images/SQL/1.PNG" width=800>
 
 Found out the First Witness lives at the last house on “Northwestern DR”
 And the second Witness Named Annabel, lives somewhere on “Franklin Ave”
 
 Found the second witness Annabel and her ID: 16371 
 
-![](images/SQL/2.PNG)
+<img src="images/SQL/2.PNG" width=800>
 
 I found the transcript by searching Annabel's ID in the "interview" database 
 
-![](images/SQL/3.PNG)
+<img src="images/SQL/3.PNG" width=800>
 
 I was able to create a match for potential suspects by joining the id tables 
 from “get_fit_now_check_in” and “get_fit_now_member” and joining only those that checked in with the date of January 9th
 
-![](images/SQL/4.PNG)
+<img src="images/SQL/4.PNG" width=800>
 
 From here I went and found witness #2 by using the database "person" to find the last house on “Northwestern Dr” with the MAX() function
 on the "address_number" table
 
-![](images/SQL/5.PNG)
+<img src="images/SQL/5.PNG" width=800>
 
 I then used the ID number of Morty to search his interview and now have more of a lead on the case
 
-![](images/SQL/6.PNG)
+<img src="images/SQL/6.PNG" width=800>
 
 I used the old join that I created earlier to join the gym ID and date as well as the membership ID to get 2 possible suspects.
 
-![](images/SQL/7.PNG)
+<img src="images/SQL/7.PNG" width=800>
 
 I joined the databases "person", "drivers_license", and "get_fit_now_member" to match up the Membership ID as well as the license plate number 
 from “drivers_license” to match up the main suspect/murderer Jeremy Bowers
 
-![](images/SQL/8.PNG)
+<img src="images/SQL/8.PNG" width=800>
 
 Proof I found the right person
 
-![](images/SQL/9.PNG)
+<img src="images/SQL/9.PNG" width=800>
 
 Bonus question was to find more information about who else was involved so I did a quick search of the "interview" database using Jeremy's ID
 
-![](images/SQL/10.PNG)
+<img src="images/SQL/10.PNG" width=800>
 
 After getting the information from Jeremy’s Transcript I used that information and created a query that joined "person", "drivers_license", 
 and "facebook_event_checkin" to match up the hair color, gender, car make and model to find who had gone to the symphony concert 3 times in December. 
 This gave me Miranda Priestly who was the person who hired Jeremy.
 
-![](images/SQL/BONUS.PNG)
+<img src="images/SQL/Bonus.PNG" width=800>
