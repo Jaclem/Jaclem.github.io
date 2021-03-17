@@ -1,4 +1,4 @@
-# <a href="https://Jaclem.github.io/python">Python</a> | SQL | <a href="https://Jaclem.github.io/c programming">C Programming</a> | <a href="https://Jaclem.github.io/linux">Linux</a> | <a href="https://Jaclem.github.io/resume">Resume</a>
+# <a href="https://Jaclem.github.io/index">Python</a> | SQL | <a href="https://Jaclem.github.io/c programming">C Programming</a> | <a href="https://Jaclem.github.io/linux">Linux</a> | <a href="https://Jaclem.github.io/resume">Resume</a>
 
 # Problem
 A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. 
