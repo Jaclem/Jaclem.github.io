@@ -2,8 +2,8 @@
 ---
 
 # JOSHUA CLEMENT
-20 East Street Apt. 2, Tewksbury, MA 01876
-Jaclem12@gmail.com | Cell : (978)-935-0762 | www.linkedin.com/in/joshua-clement- | https://jaclem.github.io/index 
+Jaclem12@gmail.com | www.linkedin.com/in/joshua-clement- | https://jaclem.github.io/index 
+
 ## TECHNICAL SKILLS
 - SQL Databases
 - Python
