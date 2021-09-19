@@ -5,25 +5,27 @@
 Jaclem12@gmail.com | www.linkedin.com/in/joshua-clement- | https://jaclem.github.io/index 
 
 ## TECHNICAL SKILLS
-- SQL Databases
-- Python
-- Selenium
-- JavaScript
-- Bash
-- Linux
-- C Programming
-- Computer Networking 
-- Active Directory
-- VMWare
+Python; Selenium; SQL Databases; JavaScript; C; Bash; Linux; Computer Networking; Active Directory; VMWare
+
+## PROFESSIONAL EXPERIENCE  
+### Deluxe Corporation - Technical Product Analyst
+Wausau, WI - Apr. 2021 - Present
+- Successfully trained 3 new employees within first 4 months in the company
+- Installed and troubleshot software for our companies application for thousands of customers
+- Participated in manual Quality Assurance testing for the mobile RDC application Deluxe develops
+- Proficiency at understanding and navigating Windows environments
+- Written over 40 detail oriented, and easy to understand notes for any possible error and how to fix any issue.
+
 
 ## PROFESSIONAL EXPERIENCE  
 ### Protocol Networks - Help Desk Engineer
 Marlborough, MA - Oct. 2020 - Present
--	Analyze, troubleshoot, and resolve all basic reported issues (software, hardware, and processes) in a logical and systematic method.
--	Log and document all necessary information and detail for every customer contact.
--	Identify and escalate critical incidents with a strong sense of urgency and ownership.
--	Collaborate with customers (of all levels of the business), team members, and support teams to identify incident details and request requirements.
--	Perform daily preventative maintenance on all necessary peripheral devices (e.g. scanners).
+- Analyzed, troubleshot, and resolved all basic reported issues (software, hardware, and processes) in a timely manner.
+- Logged and documented all necessary information and detail for every customer contact.
+- Identified and provided feedback on Quality Assurance issues with new products.
+- Collaborated with customers (of all levels of the business), team members, and supported teams to identify incident details.
+- Performed daily preventative actions to ensure SLA was not breached.
+
 
 ### Northern Essex Community College - Work Study
 Haverhill, MA - Nov. 2019 - Apr. 2020
