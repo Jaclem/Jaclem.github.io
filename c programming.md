@@ -1,4 +1,4 @@
-# <a href="https://Jaclem.github.io/index">Python</a> | <a href="https://Jaclem.github.io/sql">SQL</a> | C Programming | <a href="https://Jaclem.github.io/linux">Linux</a> | <a href="https://Jaclem.github.io/resume">Resume</a>
+# <a href="https://Jaclem.github.io/index">Python</a> | <a href="https://Jaclem.github.io/sql">SQL</a> | C Programming | <a href="https://Jaclem.github.io/linux">Linux</a>
 
 ---
 
